@@ -4,7 +4,7 @@
   - Video Instruction: https://youtu.be/6I9ZT5NKmsA
   - Official Instruction: https://jetbot.org/master/software_setup/sd_card.html
 -->
-- You need a PC, an HDMI display and a USB keyboard for setting up the JetBot.
+- To setup your JetBot, you will need a PC, an HDMI display, a USB keyboard, and WiFi access.
 <!--
   - We recommend you to follow the instruction below it includes some updates that are not included above.
 -->
