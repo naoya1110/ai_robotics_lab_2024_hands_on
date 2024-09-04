@@ -10,7 +10,7 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
   - Introduction to JetBot
   - Setup JetBot [[instruction]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week01_Jetbot_Software_Setup.md) [[video]](https://youtu.be/Si-kh8yqQHo)
   - Check JetBot hardware [[video]](https://youtu.be/77WQfj6HOIg)
-  - If you find any malfunctions in your JetBot, report them to the instructors by 9/19.
+  - If you find any malfunctions in your JetBot, please report them to the instructors by 9/19.
  
 - Week02 9/19
   - Team Presentation
