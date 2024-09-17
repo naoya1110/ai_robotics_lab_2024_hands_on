@@ -14,4 +14,4 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
  
 - Week02 9/19
   - Team Presentation
-  - Introduction to Python 1   
+  - Introduction to Python 1   [Colab Notebook](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Introduction_to_Python.ipynb)
