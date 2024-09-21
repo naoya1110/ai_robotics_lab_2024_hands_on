@@ -19,4 +19,5 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
  
 - Week03 9/26
   - Introduction to AI and Deep Learning
-  - Introduction to PyTorch   
+  - Introduction to PyTorch
+  - Simple SGD Example with PyTorch [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week03_Simple_SGD_Example__with_PyTorch.ipynb)   
