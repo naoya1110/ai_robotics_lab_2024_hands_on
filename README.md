@@ -20,4 +20,7 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
 - Week03 9/26
   - Introduction to AI and Deep Learning
   - Introduction to PyTorch [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week03_Introduction_to_PyTorch.ipynb)
-  - Simple SGD Example with PyTorch [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week03_Simple_SGD_Example__with_PyTorch.ipynb)   
+  - Simple SGD Example with PyTorch [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week03_Simple_SGD_Example__with_PyTorch.ipynb)
+ 
+- Week04 10/3
+  - Simple MLP Model with Iris Dataset [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week04_Simple_MLP_Model_with_the_Iris_Dataset.ipynb) 
