@@ -32,5 +32,5 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
   - Practical Techniques for Training CNN [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week06_Practical_Techniques_for_Training_CNN.ipynb)
 
 - Week07 10/31
-  - Transfer Learning [[Colab]]()
+  - Transfer Learning [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week07_Transfer_Learning.ipynb)
   - Image Classification Competition [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week07_Image_Classification_Competition.ipynb)  
