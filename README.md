@@ -28,5 +28,9 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
 - Week05 10/17
   - Convolutional Neural Network with CIFAR10 Dataset [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week05_Convolutional_Neural_Network_with_CIFAR10_Dataset.ipynb)
  
-- Week06 10/23
-  - Practical Techniques for Training CNN [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week06_Practical_Techniques_for_Training_CNN.ipynb)   
+- Week06 10/24
+  - Practical Techniques for Training CNN [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week06_Practical_Techniques_for_Training_CNN.ipynb)
+
+- Week07 10/31
+  - Transfer Learning [[Colab]]()
+  - Image Classification Competition [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week07_Image_Classification_Competition.ipynb)  
