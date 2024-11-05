@@ -33,4 +33,8 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
 
 - Week07 10/31
   - Transfer Learning [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week07_Transfer_Learning.ipynb)
-  - Image Classification Competition [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week07_Image_Classification_Competition.ipynb)  
+  - Image Classification Competition [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week07_Image_Classification_Competition.ipynb)
+ 
+- Week08 11/7
+  - Object Detection and Segmentation
+  - Image Classification Competition with Google Drive [[Colab]](https://github.com/naoya1110/ai_robotics_lab_2024_hands_on/blob/main/Week08_Image_Classification_Competition_with_Google_Drive.ipynb)       
