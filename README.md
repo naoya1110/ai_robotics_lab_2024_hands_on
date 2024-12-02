@@ -47,3 +47,10 @@ This is the repository of hands-on practice in NCKU-NITKC AI Robotics Lab in 202
  
 - Week10 11/21
   - Road Following by Classification Model [[github repo]](https://github.com/naoya1110/road_following_by_classification) [[video]](https://youtu.be/96u4DM-cjkE)
+ 
+- Week11 12/7
+  - Road Following by Regression Model [[github repo]](https://github.com/naoya1110/road_following_by_regression) [[video]](https://youtu.be/UWU2p3zQht8)
+ 
+- Week12 12/14
+  - Preprocessing of Racing Video [[notebook]](https://github.com/naoya1110/ai_robotics_lab_2023_hands_on/blob/main/Week12_Preprocessing_JetBot_Racing_Yolov8_2023Fall.ipynb) [[video]](https://youtu.be/txKasQSx_G8)
+
